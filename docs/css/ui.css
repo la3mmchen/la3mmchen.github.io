@@ -484,7 +484,7 @@ p { margin-top: 0; }
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   text-decoration: none;
-  color: #aeca4d;
+  color: #ca4dae;
 }
 a:hover { text-decoration: underline; }
 
@@ -591,7 +591,7 @@ blockquote {
   margin: 1.75em 0 1.75em 0;
   padding: 0 1em 0 1em;
   border-left:0.4em solid;
-  border-left-color: #aeca4d;
+  border-left-color: #ca4dae;
 }
 
 @media (min-width: 55rem) {
@@ -599,7 +599,7 @@ blockquote {
     margin: 1.75em -2em 1.75em -2em;
     padding: 0 1.5em 0 1.5em;
     border-right:0.4em solid;
-    border-right-color: #aeca4d;
+    border-right-color: #ca4dae;
   }
 }
 
@@ -620,7 +620,7 @@ blockquote cite a {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bar a { color: #777; }
 .bar a:hover {
-  color: #aeca4d;
+  color: #ca4dae;
   text-decoration: none;
 }
 .bar ul {
@@ -709,7 +709,7 @@ hr {
   margin-bottom: 1rem;
   margin-left:0;
   width: 24rem;
-  border-top: 2px solid #aeca4d;
+  border-top: 2px solid #ca4dae;
 }
 
 img {
