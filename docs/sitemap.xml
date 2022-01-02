@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://spaceape.uber.space/</loc>
-    <lastmod>2020-10-13T20:00:00+02:00</lastmod>
+    <lastmod>2021-01-01T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://spaceape.uber.space/work/heuer/</loc>
-    <lastmod>2020-10-13T20:00:00+02:00</lastmod>
+    <loc>https://spaceape.uber.space/work/okland/</loc>
+    <lastmod>2021-01-01T10:00:00+02:00</lastmod>
   </url><url>
     <loc>https://spaceape.uber.space/work/</loc>
+    <lastmod>2021-01-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://spaceape.uber.space/work/heuer/</loc>
     <lastmod>2020-10-13T20:00:00+02:00</lastmod>
   </url><url>
     <loc>https://spaceape.uber.space/work/github-ansible-r10k/</loc>

@@ -1,0 +1,70 @@
+baseURL = "https://spaceape.uber.space"
+title = "alex koehler"
+languageCode = "en-us"
+theme = "manis"
+relativeURLs = true
+enableEmoji = false
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2021, meinereiner (at) k3wl (punkt) net"
+
+pluralizeListTitles = false
+paginate = 10
+defaultContentLanguage = "en"
+
+# Code Highlighting (Chroma)
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[menu]
+	[[menu.main]]
+		name = "All Content"
+		url = "/work/"
+
+[taxonomies]
+	tag = "tags"
+
+[params]	
+	debugCSS = false # If false, use minified CSS (ui.min.css)
+	customCSS = [] # Custom CSS
+	
+	# Site meta description
+	description = "alex koehler"
+	# Site's Tagline (Subtitle or Keyword)
+	tagline = "irgendwas mit komputah."
+	themeAttrib = false
+	mainSections = ["work"] # Configure which sections for Latest Posts
+	workSections = [""] # Configure which sections for Latest Works
+	
+	# List of sections that support disqus comments
+	disqusSections = [ "blog" ]
+	# List of sections that support utterances comments
+	utterancesSections = [ "blog" ]
+	
+	# Utterances Configuration
+	utterancesRepo = ""
+	utterancesTheme = "github-light"
+	utterancesLabel = ""
+
+	# 404 Configuration
+	head404 = "Sorry, I can't find what you want."
+	sub404 = "Back to <a href='/'>Home</a>."
+
+	# Color of your website's accent
+	colorTheme = "#aeca4d"
+	# Maximum number of item in Latest Posts or Works
+	latestCount = 3
+	# Path to site's favicon image
+	faviconImg = ""
+	# Date format in item list
+	dateFmt = "02 Jan 2006"
+
+	# Code Highlighting (HighlightJS)
+	highlightJs = false
+	highlightJsLanguages = [ "go" ]
+	highlightJsStyle = "ocean"
+
+	# Social Links
+	email = "meinereiner (at) koehleralex (punkt) de"
+	github = "https://github.com/la3mmchen/"
+	twitter = "https://twitter.com/la3mmchen"
