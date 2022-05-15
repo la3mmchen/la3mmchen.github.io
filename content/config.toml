@@ -6,7 +6,7 @@ relativeURLs = true
 enableEmoji = false
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; Copyright 2021, meinereiner (at) k3wl (punkt) net"
+copyright = "&copy; Copyright 2022, meinereiner (at) k3wl (dot) net"
 
 pluralizeListTitles = false
 paginate = 10
@@ -24,10 +24,10 @@ pygmentsUseClasses = true
 [taxonomies]
 	tag = "tags"
 
-[params]	
+[params]
 	debugCSS = false # If false, use minified CSS (ui.min.css)
 	customCSS = [] # Custom CSS
-	
+
 	# Site meta description
 	description = "alex koehler"
 	# Site's Tagline (Subtitle or Keyword)
@@ -35,12 +35,12 @@ pygmentsUseClasses = true
 	themeAttrib = false
 	mainSections = ["work"] # Configure which sections for Latest Posts
 	workSections = [""] # Configure which sections for Latest Works
-	
+
 	# List of sections that support disqus comments
 	disqusSections = [ "blog" ]
 	# List of sections that support utterances comments
 	utterancesSections = [ "blog" ]
-	
+
 	# Utterances Configuration
 	utterancesRepo = ""
 	utterancesTheme = "github-light"

@@ -6,12 +6,12 @@
     <description>Recent content in Work on alex koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2021, meinereiner (at) k3wl (punkt) net</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 10:00:00 +0200</lastBuildDate><atom:link href="https://la3mmchen.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright 2022, meinereiner (at) k3wl (dot) net</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://la3mmchen.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Okland</title>
       <link>https://la3mmchen.github.io/work/okland/</link>
-      <pubDate>Fri, 01 Jan 2021 10:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jan 2022 10:00:00 +0200</pubDate>
       
       <guid>https://la3mmchen.github.io/work/okland/</guid>
       <description>okland is a cli wrapper for handling static code analysis toolings. it&amp;rsquo;s core feature is the ability to extract prometheus metrics from scan results and send them to a pushgateway. See https://github.com/la3mmchen/okland for details.</description>
