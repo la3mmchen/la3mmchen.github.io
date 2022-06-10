@@ -5,10 +5,13 @@ SITE_DIR="../docs"
 
 case $key in
     -c|--content)
-    /usr/bin/env hugo --cleanDestinationDir --destination ${SITE_DIR}
+    /usr/bin/env hugo --cleanDestinationDir --destination ${SITE_DIR} -D
+    ;;
+    -n|--new)
+    /usr/bin/env hugo new content/work/$2
     ;;
     -s|--server)
-    /usr/bin/env hugo server -c ${SITE_DIR}
+    /usr/bin/env hugo server -c ${SITE_DIR} -D
     ;;
     *) # default option
     echo "******  "

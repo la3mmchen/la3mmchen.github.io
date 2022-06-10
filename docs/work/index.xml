@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2022, meinereiner (at) k3wl (dot) net</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 10:00:00 +0200</lastBuildDate><atom:link href="https://la3mmchen.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://la3mmchen.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article series: Grafana Loki</title>
+      <link>https://la3mmchen.github.io/work/ops-cmty-loki/</link>
+      <pubDate>Thu, 09 Jun 2022 20:00:00 +0200</pubDate>
+      
+      <guid>https://la3mmchen.github.io/work/ops-cmty-loki/</guid>
+      <description>Wrote a small article series about Grafana Loki for the (ops community)[https://community.ops.io/]:
+ intro loki &amp;amp;&amp;amp; curl &amp;amp;&amp;amp; logcli loki &amp;amp;&amp;amp; grafana loki &amp;amp;&amp;amp; vector loki &amp;amp;&amp;amp; logql  </description>
+    </item>
+    
     <item>
       <title>Okland</title>
       <link>https://la3mmchen.github.io/work/okland/</link>
