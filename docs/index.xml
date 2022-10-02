@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2022, meinereiner (at) k3wl (dot) net</copyright>
-    <lastBuildDate>Thu, 09 Jun 2022 20:00:00 +0200</lastBuildDate><atom:link href="https://la3mmchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 12:30:59 +0200</lastBuildDate><atom:link href="https://la3mmchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Milbi</title>
+      <link>https://la3mmchen.github.io/work/milbi/</link>
+      <pubDate>Sun, 02 Oct 2022 12:30:59 +0200</pubDate>
+      
+      <guid>https://la3mmchen.github.io/work/milbi/</guid>
+      <description>Milbi (https://github.com/la3mmchen/milbi) is a tool i wrote to support my local backup behaviour.</description>
+    </item>
+    
     <item>
       <title>Article series: Grafana Loki</title>
       <link>https://la3mmchen.github.io/work/ops-cmty-loki/</link>
       <pubDate>Thu, 09 Jun 2022 20:00:00 +0200</pubDate>
       
       <guid>https://la3mmchen.github.io/work/ops-cmty-loki/</guid>
-      <description>Wrote a small article series about Grafana Loki for the (ops community)[https://community.ops.io/]:
- intro loki &amp;amp;&amp;amp; curl &amp;amp;&amp;amp; logcli loki &amp;amp;&amp;amp; grafana loki &amp;amp;&amp;amp; vector loki &amp;amp;&amp;amp; logql  </description>
+      <description>Wrote a small article series about Grafana Loki for the ops community:
+intro loki &amp;amp;&amp;amp; curl &amp;amp;&amp;amp; logcli loki &amp;amp;&amp;amp; grafana loki &amp;amp;&amp;amp; vector loki &amp;amp;&amp;amp; logql </description>
     </item>
     
     <item>

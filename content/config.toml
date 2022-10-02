@@ -30,8 +30,7 @@ pygmentsUseClasses = true
 
 	# Site meta description
 	description = "alex koehler"
-	# Site's Tagline (Subtitle or Keyword)
-	tagline = "irgendwas mit komputah."
+	tagline = "something with computer."
 	themeAttrib = false
 	mainSections = ["work"] # Configure which sections for Latest Posts
 	workSections = [""] # Configure which sections for Latest Works
